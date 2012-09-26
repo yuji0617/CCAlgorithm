@@ -1,3 +1,7 @@
+*~
+*.dat
+main.rb
+4DMeasuredData
 *.gem
 *.rbc
 .bundle
